@@ -1,3 +1,6 @@
+#Implementation of a GUI using python.
+#This is a basic tic tac toe game code.
+
 from tkinter import*
 from tkinter import ttk
 from tkinter import messagebox
